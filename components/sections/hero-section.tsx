@@ -72,8 +72,8 @@ export function HeroSection() {
                 className="rounded-[2rem]"
               />
             </div>
-            <div className="absolute -right-20 top-1/4 rounded-2xl bg-security-navy/80 p-3 shadow-lg backdrop-blur-sm border border-white/10 animate-pulse-glow">
-              <div className="rounded-xl bg-dark-gray/90 p-3">
+            <div className="absolute -right-20 top-1/4 rounded-2xl bg-white p-3 shadow-lg">
+              <div className="rounded-xl bg-white p-3">
                 <Image
                   src={SITE_CONFIG.logo}
                   alt="Buzz Me Up Logo"
@@ -81,8 +81,8 @@ export function HeroSection() {
                   height={24}
                   className="rounded-md"
                 />
-                <p className="mt-2 text-sm font-medium">Delivery person at door</p>
-                <p className="text-xs text-extra-light-gray">"I have a package for apartment 3B"</p>
+                <p className="mt-2 text-sm font-medium text-gray-900">Delivery person at door</p>
+                <p className="text-xs text-gray-600">"I have a package for apartment 3B"</p>
                 <div className="mt-2 flex gap-2">
                   <Button
                     size="sm"
@@ -90,7 +90,7 @@ export function HeroSection() {
                   >
                     Buzz In
                   </Button>
-                  <Button size="sm" variant="outline" className="border-dark-gray rounded-full">
+                  <Button size="sm" variant="outline" className="border-gray-200 text-gray-700 hover:bg-gray-50 rounded-full">
                     Ignore
                   </Button>
                 </div>

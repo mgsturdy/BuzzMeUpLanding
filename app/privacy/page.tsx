@@ -112,7 +112,7 @@ export default function PrivacyPage() {
             <p className="mt-2">1473212 B.C. LTD DBA Buzz Me Up</p>
             <p>Email: <a href="mailto:contact@buzzmeup.com" className="text-blue-400 hover:underline">contact@buzzmeup.com</a> (for privacy inquiries, include "Privacy Request" in subject)</p>
             <p>Address: 5th Floor, 905 W Pender St, Vancouver, BC, V6C 1L6</p>
-            <p>For California-specific inquiries: Use the above email or call [if toll-free number available]. We designate this as our "Do Not Sell My Personal Information" link equivalent.</p>
+            <p>For California-specific inquiries: Use the above email. We designate this as our "Do Not Sell My Personal Information" link equivalent.</p>
           </div>
         </div>
       </main>

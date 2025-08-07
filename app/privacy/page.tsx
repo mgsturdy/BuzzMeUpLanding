@@ -99,7 +99,7 @@ export default function PrivacyPage() {
             <p>The Service may link to third-party sites (e.g., building intercom providers). We are not responsible for their privacy practices; review their policies.</p>
             
             <h2 className="text-2xl font-semibold text-white mt-8 mb-4">10. Children's Privacy</h2>
-            <p>The Service is for users 18+. We do not knowingly collect data from children under 13 (or 16 in some jurisdictions). If discovered, We delete it immediately and may terminate accounts. Parents/guardians: Contact Us if you believe your child provided data.</p>
+            <p>The Service is for users 18+. We do not knowingly collect data from children under 18. If discovered, We delete it immediately and may terminate accounts. Parents/guardians: Contact Us if you believe your child provided data.</p>
             
             <h2 className="text-2xl font-semibold text-white mt-8 mb-4">11. International Users and Transfers</h2>
             <p>If you are outside USA/Canada, your data may be transferred to and processed in these countries. By using the Service, you consent to such transfers. We ensure compliance with local laws; for EU/UK users (if any), We rely on adequacy or safeguards like EU Standard Contractual Clauses.</p>
